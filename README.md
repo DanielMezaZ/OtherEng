@@ -3,10 +3,10 @@
 
 ##Desmos
 
-###Mohr's Circle
--Change the stress state (2D) and show a rotation
--![desmos-graph](https://user-images.githubusercontent.com/68777522/218192573-0c925a2f-4243-40d8-9eb9-a96643114eca.png)
--[Desmos Link](https://www.desmos.com/calculator/sq7bl7kfik)
+### Mohr's Circle
+--Change the stress state (2D) and show a rotation
+--![desmos-graph](https://user-images.githubusercontent.com/68777522/218192573-0c925a2f-4243-40d8-9eb9-a96643114eca.png)
+--[Desmos Link](https://www.desmos.com/calculator/sq7bl7kfik)
 
 ###Hermitian shape functions
 -Set the function to approximate and the bounds
